@@ -1,6 +1,8 @@
 # iOS-Developer-Checklist
 Spreadsheet & Resources for Learning Swift Development for Apple Platforms
 
+## Note: I'm currently working on a Swift Playground that will accompany this list for additional practice for the individual learning. This will also help me to build my knowledge base.
+
 ## Community
 - [iOS Dev Happy Hour](https://www.iosdevhappyhour.com)
 
