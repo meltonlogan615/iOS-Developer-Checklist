@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='0.00 - Why? Who?'/>
+        <page name='1.01 - Introduction'/>
+        <page name='1.02 - Variables'/>
+        <page name='1.03 - Constants'/>
+        <page name='1.04 - Basic Data Types'/>
+        <page name='1.04.01 - Integers'/>
+        <page name='1.04.02 - Strings'/>
+        <page name='1.06.03 - String Iterpolation'/>
+        <page name='1.04.04 - Floats &amp; Doubles'/>
+        <page name='1.07 - Booleans'/>
+        <page name='1.01.01 - Type Safety'/>
+        <page name='1.08 - Collections'/>
+        <page name='1.08.01 - Arrays'/>
+        <page name='1.08.02 - Sets'/>
+        <page name='1.08.03 - Dictionaries'/>
+        <page name='2.01 - Intro to Custom Data Types'/>
+        <page name='2.02 - Enumerations'/>
+        <page name='2.03 - Structures'/>
+        <page name='2.04 - Classes'/>
+    </pages>
+</playground>
