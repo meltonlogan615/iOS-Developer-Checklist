@@ -16,8 +16,11 @@ Spreadsheet & Resources for Learning Swift Development for Apple Platforms
 - [iOS Academy](https://iosacademy.io)
 - [Codecademy](https://www.codecademy.com/learn/learn-swift)
 - [Big Mountain Studio](https://www.bigmountainstudio.com)
+- [Essential Developer - for Senior level](https://www.essentialdeveloper.com)
+- [Matteo Manferdini courses](https://matteomanferdini.com/products/)
 
 ## Newsletters
+- [iOS Dev Weekly](https://iosdevweekly.com)
 - [iOS Goodies](https://ios-goodies.com)
 - [iOS Code Review](https://newsletter.ioscodereview.com)
 
@@ -25,4 +28,5 @@ Spreadsheet & Resources for Learning Swift Development for Apple Platforms
 - [iOS Dev Jobs](https://iosdevjobs.com)
 - [We Work Remotely](https://weworkremotely.com)
 - [Interview Prep from Wayne Bishop](https://www.waynewbishop.com)
+- [RemoteOK](https://remoteok.com/remote-ios-jobs)
 
